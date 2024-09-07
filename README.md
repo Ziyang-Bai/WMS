@@ -124,7 +124,6 @@ JQ2010和WRXIZYOURFATHER在Jing_jian退出问题产生严重争执 WRXIZYOURFATH
 2023-07-13
 
 KeyKeyMaker对JQ2010批评 Bi11Z因对组织感到悲观而退出 后于Jing_jian一同研制"恶人工具箱"
-
 2023-09-10
 
 Jing_jian向KeyKeyMaker申请技术援助 Jing_jian回归
@@ -155,3 +154,5 @@ WMS项目重启 项目组成员 Jing_jian KeyKeyMaker
 ****最新计划
 于2024-1月推出Zeta测试重构 使用Windows 10 Pro作为内核
 2024-10月推出1.0正式版
+****项目终止
+由于开发人员始终没有凑齐，且该方面需求较少，项目永久终止。仓库存档。
